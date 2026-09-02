@@ -27,11 +27,11 @@ Nmap done: 1 IP address (1 host up) scanned in 12.11 seconds
 
 While exploring the website, I found a page that allowed downloading a network capture, but it was empty. I noticed that the URL contained an id parameter, so I changed it.
 
-![[Screenshot 2026-09-02 at 15.01.51.png]]
+![Download page with id parameter](assets/Screenshot%202026-09-02%20at%2015.01.51.png)
 
 When I set the id to 0, I got a network capture containing actual data, so I downloaded it.
 
-![[Screenshot 2026-09-02 at 15.03.48.png]]
+![Download page with id parameter](assets/Screenshot%202026-09-02%20at%2015.01.51.png)
 
 Inside the capture, I found a username and password for the FTP server:
 
