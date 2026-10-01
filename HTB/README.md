@@ -8,20 +8,20 @@ Each writeup follows the same structure: **Reconnaissance → Enumeration → Fo
  
 | Machine | Writeup |
 |---|---|
-| Cap | [HTB - Cap.md](<HTB - Cap.md>) |
-| Cohort |  [HTB - Cohort.md](<HTB - Cohort.md>) |
-| Connected |  [HTB - Connected.md](<HTB - Connected.md>) |
-| DevHub |  [HTB - DevHub.md](<HTB - DevHub.md>) |
-| Enigma | [HTB - Enigma.md](<HTB - Enigma.md>) |
-| Fireflow | [HTB - Fireflow.md](<HTB - Fireflow.md>) |
-| Management | [HTB - Management.md](<HTB - Management.md>) |
-| Nexus |  [HTB - Nexus.md](<HTB - Nexus.md>) |
-| Orion | [HTB - Orion.md](<HTB - Orion.md>) |
-| Principal | [HTB - Principal.md](<HTB - Principal.md>) |
-| Reactor | [HTB - Reactor.md](<HTB - Reactor.md>) |
-| Silentium |  [HTB - Silentium.md](<HTB - Silentium.md>) |
-| TwoMillion |  [HTB - TwoMillion.md](<HTB - TwoMillion.md>) |
-| Paperwork |  [HTB - Paperwork.md](<HTB - Paperwork.md>) |
+| Cap | [HTB - Cap.md](<easy/HTB - Cap.md>) |
+| Cohort |  [HTB - Cohort.md](<easy/HTB - Cohort.md>) |
+| Connected |  [HTB - Connected.md](<easy/HTB - Connected.md>) |
+| DevHub |  [HTB - DevHub.md](<medium/HTB - DevHub.md>) |
+| Enigma | [HTB - Enigma.md](<easy/HTB - Enigma.md>) |
+| Fireflow | [HTB - Fireflow.md](<medium/HTB - Fireflow.md>) |
+| Management | [HTB - Management.md](<easy/HTB - Management.md>) |
+| Nexus |  [HTB - Nexus.md](<easy/HTB - Nexus.md>) |
+| Orion | [HTB - Orion.md](<easy/HTB - Orion.md>) |
+| Principal | [HTB - Principal.md](<medium/HTB - Principal.md>) |
+| Reactor | [HTB - Reactor.md](<easy/HTB - Reactor.md>) |
+| Silentium |  [HTB - Silentium.md](<medium/HTB - Silentium.md>) |
+| TwoMillion |  [HTB - TwoMillion.md](<easy/HTB - TwoMillion.md>) |
+| Paperwork |  [HTB - Paperwork.md](<easy/HTB - Paperwork.md>) |
  
 
  
