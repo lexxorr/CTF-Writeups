@@ -19,7 +19,7 @@ Each writeup follows the same structure: **Reconnaissance → Enumeration → Fo
 | Orion | [HTB - Orion.md](<easy/HTB - Orion.md>) |
 | Principal | [HTB - Principal.md](<medium/HTB - Principal.md>) |
 | Reactor | [HTB - Reactor.md](<easy/HTB - Reactor.md>) |
-| Silentium |  [HTB - Silentium.md](<medium/HTB - Silentium.md>) |
+| Silentium |  [HTB - Silentium.md](<easy/HTB - Silentium.md>) |
 | TwoMillion |  [HTB - TwoMillion.md](<easy/HTB - TwoMillion.md>) |
 | Paperwork |  [HTB - Paperwork.md](<easy/HTB - Paperwork.md>) |
  
@@ -30,7 +30,10 @@ Each writeup follows the same structure: **Reconnaissance → Enumeration → Fo
 ```
 HTB/
 ├── README.md                  ← this file
-├── HTB - <Machine>.md         ← one writeup per machine
+├── easy/                      ← Easy HTB Machine
+    └── HTB - <Machine>.md     ← one writeup per machine
+├── medium/                    ← Medium HTB Machine
+    └── HTB - <Machine>.md     ← one writeup per machine
 ```
  
 ## Writeup format
