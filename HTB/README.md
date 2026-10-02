@@ -22,6 +22,7 @@ Each writeup follows the same structure: **Reconnaissance → Enumeration → Fo
 | Silentium |  [HTB - Silentium.md](<easy/HTB - Silentium.md>) |
 | TwoMillion |  [HTB - TwoMillion.md](<easy/HTB - TwoMillion.md>) |
 | Paperwork |  [HTB - Paperwork.md](<easy/HTB - Paperwork.md>) |
+| MakeSense |  [HTB - MakeSense.md](<medium/HTB - MakeSense.md>) |
  
 
  
