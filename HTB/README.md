@@ -23,6 +23,7 @@ Each writeup follows the same structure: **Reconnaissance → Enumeration → Fo
 | TwoMillion |  [HTB - TwoMillion.md](<easy/HTB - TwoMillion.md>) |
 | Paperwork |  [HTB - Paperwork.md](<easy/HTB - Paperwork.md>) |
 | MakeSense |  [HTB - MakeSense.md](<medium/HTB - MakeSense.md>) |
+| SmartHire | [HTB - SmartHire.md](<medium/HTB - SmartHire.md>) |
  
 
  
