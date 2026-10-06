@@ -15,7 +15,7 @@ Each writeup follows the same structure: **Analysis → Exploitation → Flag**
 ```
 RootMe/
 ├── README.md                      ← this file
-├── <Machine>.md             ← one writeup per machine
+├── <Machine>.md                   ← one writeup per machine
 
 ```
 
