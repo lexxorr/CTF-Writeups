@@ -10,6 +10,7 @@ Each writeup follows a consistent structure: **Reconnaissance → Enumeration �
 .
 ├── README.md
 ├── HTB/            ← Hack The Box machines
+├── RootMe/         ← Root Me machines
 ```
  
 Each platform folder has its own `README.md` indexing its writeups in a table, with links to the full writeup and a short list of key techniques used.
@@ -19,6 +20,7 @@ Each platform folder has its own `README.md` indexing its writeups in a table, w
 | Platform | Description | Index |
 |---|---|---|
 | [Hack The Box](HTB/) | Boot2root machines, full chain to root | [HTB/README.md](HTB/README.md) |
+| [Root Me(RootMe/) | Boot2root machines, full chain to root | [RootMe/README.md](RootMe/README.md) |
  
 ## Writeup format
  
