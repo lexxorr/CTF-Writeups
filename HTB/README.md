@@ -8,22 +8,22 @@ Each writeup follows the same structure: **Reconnaissance → Enumeration → Fo
 
 | Machine | Writeup |
 |---------|---------|
-| Cap | [Cap.md](Cap.md) |
-| Cohort | [Cohort.md](Cohort.md) |
-| Connected | [Connected.md](Connected.md) |
-| DevHub | [DevHub.md](DevHub.md) |
-| Enigma | [Enigma.md](Enigma.md) |
-| Fireflow | [Fireflow.md](Fireflow.md) |
-| Management | [Management.md](Management.md) |
-| Nexus | [Nexus.md](Nexus.md) |
-| Orion | [Orion.md](Orion.md) |
-| Principal | [Principal.md](Principal.md) |
-| Reactor | [Reactor.md](Reactor.md) |
-| Silentium | [Silentium.md](Silentium.md) |
-| TwoMillion | [TwoMillion.md](TwoMillion.md) |
-| Paperwork | [Paperwork.md](Paperwork.md) |
-| MakeSense | [MakeSense.md](MakeSense.md) |
-| SmartHire | [SmartHire.md](SmartHire.md) |
+| Cap | [Cap.md](easy/Cap.md) |
+| Cohort | [Cohort.md](easy/Cohort.md) |
+| Connected | [Connected.md](easy/Connected.md) |
+| DevHub | [DevHub.md](medium/DevHub.md) |
+| Enigma | [Enigma.md](easy/Enigma.md) |
+| Fireflow | [Fireflow.md](medium/Fireflow.md) |
+| Management | [Management.md](easy/Management.md) |
+| Nexus | [Nexus.md](easy/Nexus.md) |
+| Orion | [Orion.md](easy/Orion.md) |
+| Principal | [Principal.md](medium/Principal.md) |
+| Reactor | [Reactor.md](easy/Reactor.md) |
+| Silentium | [Silentium.md](easy/Silentium.md) |
+| TwoMillion | [TwoMillion.md](easy/TwoMillion.md) |
+| Paperwork | [Paperwork.md](easy/Paperwork.md) |
+| MakeSense | [MakeSense.md](medium/MakeSense.md) |
+| SmartHire | [SmartHire.md](medium/SmartHire.md) |
 
 ## Structure
 
