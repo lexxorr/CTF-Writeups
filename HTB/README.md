@@ -24,6 +24,7 @@ Each writeup follows the same structure: **Reconnaissance → Enumeration → Fo
 | Paperwork | [Paperwork.md](easy/Paperwork.md) |
 | MakeSense | [MakeSense.md](medium/MakeSense.md) |
 | SmartHire | [SmartHire.md](medium/SmartHire.md) |
+| Abducted | [Abducted.md](medium/Abducted.md) |
 
 ## Structure
 
