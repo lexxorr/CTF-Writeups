@@ -25,6 +25,7 @@ Each writeup follows the same structure: **Reconnaissance → Enumeration → Fo
 | MakeSense | [MakeSense.md](medium/MakeSense.md) |
 | SmartHire | [SmartHire.md](medium/SmartHire.md) |
 | Abducted | [Abducted.md](medium/Abducted.md) |
+| Bedside | [Bedside.md](medium/Bedside.md) |
 
 ## Structure
 
