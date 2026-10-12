@@ -9,6 +9,7 @@ Each writeup follows the same structure: **Analysis → Exploitation → Flag**
 | Name | Writeup |
 |----------|----------|
 | Born2Root | [Born2Root](Born2Root.md) |
+| BlackMarket | [BlackMarket](BlackMarket.md) |
 
 ## Structure
 
