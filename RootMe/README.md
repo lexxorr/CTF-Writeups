@@ -10,6 +10,7 @@ Each writeup follows the same structure: **Analysis → Exploitation → Flag**
 |----------|----------|
 | Born2Root | [Born2Root](Born2Root.md) |
 | BlackMarket | [BlackMarket](BlackMarket.md) |
+| Basilic | [Basilic](Basilic.md) |
 
 ## Structure
 
